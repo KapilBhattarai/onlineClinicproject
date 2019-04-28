@@ -1,0 +1,4 @@
+@charset "ISO-8859-1";
+
+#locator{position: absolute;border:2px solid blue;background-color:#FFFFC0;top: 150px;left: 600px;width: 500px;height: 500px; } 
+#locator1{background-color:#FFFFA0;}
